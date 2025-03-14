@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PALMPAY/MLFLOW-TEST/mlruns/0/44df31e65c6c4308bf66e6f99b3314f0/artifacts
+end_time: 1741928747087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44df31e65c6c4308bf66e6f99b3314f0
+run_name: awesome-stag-786
+run_uuid: 44df31e65c6c4308bf66e6f99b3314f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741928744346
+status: 3
+tags: []
+user_id: PALMPAY

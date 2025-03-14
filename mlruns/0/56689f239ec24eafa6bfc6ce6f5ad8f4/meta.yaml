@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PALMPAY/MLFLOW-TEST/mlruns/0/56689f239ec24eafa6bfc6ce6f5ad8f4/artifacts
+end_time: 1741926287693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56689f239ec24eafa6bfc6ce6f5ad8f4
+run_name: gentle-carp-628
+run_uuid: 56689f239ec24eafa6bfc6ce6f5ad8f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741926284844
+status: 3
+tags: []
+user_id: PALMPAY
